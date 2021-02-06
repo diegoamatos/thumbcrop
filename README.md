@@ -38,13 +38,13 @@ SimpSyst é um conjunto de pequenos e otimizados componentes PHP para tarefas co
 Thumbcrop is available via Composer:
 
 ```bash
-"simpsyst/thumbcrop": "1.3.*"
+"simpsyst/thumbcrop": "dev-main"
 ```
 
 or run
 
 ```bash
-composer require simpsyst/thumbcrop
+composer require simpsyst/thumbcrop:dev-main
 ```
 
 ## Documentation
