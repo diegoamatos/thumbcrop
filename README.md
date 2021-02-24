@@ -3,10 +3,10 @@
 [![Maintainer](http://img.shields.io/badge/maintainer-@diegomatos-blue.svg?style=flat-square)](https://twitter.com/diegoamatos)
 [![Source Code](http://img.shields.io/badge/source-simpsyst/thumbcrop-blue.svg?style=flat-square)](https://github.com/diegoamatos/thumbcrop)
 [![PHP from Packagist](https://img.shields.io/packagist/php-v/simpsyst/thumbcrop.svg?style=flat-square)](https://packagist.org/packages/simpsyst/thumbcrop)
-[![Latest Version](https://img.shields.io/github/release/diegoamatos/thumbcrop.svg?style=flat-square)](https://github.com/diegomatos/thumbcrop/releases)
+[![Latest Version](https://img.shields.io/github/release/diegoamatos/thumbcrop.svg?style=flat-square)](https://github.com/diegoamatos/thumbcrop/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
-[![Build](https://img.shields.io/scrutinizer/build/g/diegomatos/thumbcrop.svg?style=flat-square)](https://scrutinizer-ci.com/g/diegomatos/thumbcrop)
-[![Quality Score](https://img.shields.io/scrutinizer/g/diegomatos/thumbcrop.svg?style=flat-square)](https://scrutinizer-ci.com/g/diegomatos/thumbcrop)
+[![Build](https://img.shields.io/scrutinizer/build/g/diegomatos/thumbcrop.svg?style=flat-square)](https://scrutinizer-ci.com/g/diegoamatos/thumbcrop)
+[![Quality Score](https://img.shields.io/scrutinizer/g/diegoamatos/thumbcrop.svg?style=flat-square)](https://scrutinizer-ci.com/g/diegoamatos/thumbcrop)
 [![Total Downloads](https://img.shields.io/packagist/dt/simpsyst/thumbcrop.svg?style=flat-square)](https://packagist.org/packages/simpsyst/thumbcrop)
 
 ###### Thumbcrop is a component that simplifies the creation of JPG and PNG image thumbnails with a cache engine. Thumbcrop CC creates your image for each part required in the application with zero complexity.
